@@ -1,0 +1,15 @@
+# Nothing personal is ignored by default, so your CV and applications are
+# versioned with git. This is only safe in a PRIVATE repo: create your copy with
+# "Use this template" on GitHub and choose Private before you add your own CV
+# (see README, "Privacy").
+#
+# If you prefer to keep your personal files untracked (no history, no backup),
+# remove the leading "# " from the two lines below. The examples/ folder stays tracked.
+# my-cv/
+# applications/
+
+# Editor and system noise
+.DS_Store
+Thumbs.db
+*.swp
+~$*

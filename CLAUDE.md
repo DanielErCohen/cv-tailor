@@ -42,4 +42,5 @@ Run a step only when its inputs exist. If `main-cv.md` is still a template, star
 
 - Commit after each finished step with a short message: `Main CV v1`, `Tailor: 2026-03-02-acme-analyst`.
 - Tag the version that was actually sent: `sent-2026-03-02-acme-analyst`.
+- Before the first write in a session, run `gh repo view --json isPrivate -q .isPrivate`. If it prints `true`, continue. If it prints `false`, stop and warn the user that the repo is public and a CV must not be written to it. If `gh` is not installed or not signed in, skip the check and say so.
 - Never add a remote, push, or change repo visibility unless the user asks. Remind them the repo should be private.

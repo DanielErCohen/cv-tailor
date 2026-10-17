@@ -37,7 +37,7 @@ Every tailored CV comes with `changes.md`, which lists what changed against the 
 
 ## Quick start (15 minutes)
 
-1. **Get the repo (2 min).** On GitHub, click "Use this template" and choose a private repository, then clone it with GitHub Desktop. Or download the repository ZIP and extract it into a local folder. GitHub does not allow private forks of public repositories, which is why a template copy is the way to keep a private one.
+1. **Get the repo (2 min).** On GitHub, click "Use this template" and choose a private repository, then clone it with GitHub Desktop. Or download the repository ZIP and extract it into a local folder.
 2. **Install the skills (3 min).** Pick one path under "Install".
 3. **Build your main CV (6 min).** Tell Claude: "Use cv-intake to build my main CV." Attach your old CV or a LinkedIn export. Answer its questions about outcomes and numbers. Save the result as `my-cv/main-cv.md`.
 4. **Review it (2 min).** Tell Claude: "Use cv-review on my main CV." Fix the top items.
@@ -52,12 +52,12 @@ Then, per job: copy `applications/_template/` to `applications/YYYY-MM-DD-compan
 ```bash
 [ -d ~/cv-tailor ] || git clone https://github.com/DanielErCohen/cv-tailor.git ~/cv-tailor
 mkdir -p ~/.claude/skills
-cp -R ~/cv-tailor/skills/* ~/.claude/skills/
-cp ~/cv-tailor/guides/07-ats-checks.md ~/.claude/skills/cv-review/ats-checks.md
-cp ~/cv-tailor/guides/07-ats-checks.md ~/.claude/skills/cv-tailor/ats-checks.md
+cp -Rn ~/cv-tailor/skills/* ~/.claude/skills/
+cp -n ~/cv-tailor/guides/07-ats-checks.md ~/.claude/skills/cv-review/ats-checks.md
+cp -n ~/cv-tailor/guides/07-ats-checks.md ~/.claude/skills/cv-tailor/ats-checks.md
 ```
 
-The last two lines put the ATS checklist beside `cv-review` and `cv-tailor`, where their `SKILL.md` files look for it when they run outside the repo.
+The `-n` flag keeps any skill you already have with the same name. The last two lines put the ATS checklist beside `cv-review` and `cv-tailor`, where their `SKILL.md` files look for it when they run outside the repo.
 
 **Claude app (desktop and web).** Download the six skill zips and upload each one: [cv-intake](https://danielercohen.github.io/ai-pm/downloads/cv-intake.zip), [cv-review](https://danielercohen.github.io/ai-pm/downloads/cv-review.zip), [cv-tailor](https://danielercohen.github.io/ai-pm/downloads/cv-tailor.zip), [cover-note](https://danielercohen.github.io/ai-pm/downloads/cover-note.zip), [company-research](https://danielercohen.github.io/ai-pm/downloads/company-research.zip) and [application-tracker](https://danielercohen.github.io/ai-pm/downloads/application-tracker.zip). In the app open Customize, then Skills, select "+", then "Create skill", then "Upload a skill", and choose the zip. Code execution must be on (Settings, then Capabilities; it is on by default, and on Team and Enterprise plans an admin turns it on). In the app, Claude cannot see your files unless you attach them, so paste or attach your main CV, the job description and company notes when a skill asks.
 

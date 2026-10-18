@@ -3,7 +3,7 @@
 Build one strong main CV, tailor it to each posting and keep every version.
 
 <details>
-<summary><b>Why I built it:</b> About 1 in 30 of my applications got a reply for roles I fit, so I rebuilt my CV for the software that screens it.</summary>
+<summary><b>Why I built it:</b> I sent over 100 CVs and got back barely a handful of replies, so I rebuilt my CV for the software that screens it.</summary>
 
 - After the change, about 1 in 5 got a reply.
 - The structure of my CV was hard for that software to read.

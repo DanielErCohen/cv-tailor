@@ -1,9 +1,21 @@
 # cv-tailor
 
-cv-tailor is six Claude skills, templates and guides for a CV workflow: build one strong main CV, tailor it to a role and a company, and keep every version in git. The steps come from LandMyCV, a CV-tailoring app I built. I paused its development in Apr '26 and it is still online at landmycv.com. The models have since become strong enough that the steps matter more than the app, so I kept them here as plain files.
+Build one strong main CV, tailor it to each posting and keep every version.
 
-Toolkit page: https://danielercohen.github.io/ai-pm/toolkit/cv-tailor.html
-LandMyCV write-up: https://danielercohen.github.io/ai-pm/projects/landmycv.html
+<details>
+<summary><b>Why I built it:</b> About 1 in 30 of my applications got a reply for roles I fit, so I rebuilt my CV for the software that screens it.</summary>
+
+- After the change, about 1 in 5 got a reply.
+- The structure of my CV was hard for that software to read.
+- It used my wording where each posting had its own. One version went to every role.
+- In Harvard Business School's Hidden Workers survey (2021) of employers in the US, UK and Germany, about 6 in 10 used recruitment software. More than 9 in 10 of those let it make the first cut of applicants.
+- I first built this as an app, LandMyCV, to help myself and others find a relevant job. In Apr '26 I paused the app and kept its steps here as plain files that Claude follows.
+
+</details>
+
+- Toolkit page: https://danielercohen.github.io/ai-pm/toolkit/cv-tailor.html
+- LandMyCV write-up: https://danielercohen.github.io/ai-pm/projects/landmycv.html
+- LandMyCV is the app these steps came from. I paused its development in Apr '26 and it is still online at landmycv.com.
 
 ## Who it is for
 
@@ -11,11 +23,14 @@ Job seekers, including people who have never used a terminal. If you can paste t
 
 ## What you get
 
-- Six skills for Claude: `cv-intake`, `cv-review`, `cv-tailor`, `company-research`, `cover-note`, `application-tracker`.
-- Templates for your main CV, an achievements bank, and one folder per application.
-- A "read it as them" step in `cv-tailor`: four simulated readers challenge each tailored CV.
-- Seven short guides that walk the workflow in order.
-- One fully fictional worked example.
+Six Claude skills that take you from one main CV to a tailored CV per role.
+
+- A `changes.md` with every tailored CV, listing what changed against the main CV and why. Read it before you send.
+- A "read it as them" step: simulated readers (a recruiter screen, HR, the interviewing PMs, the hiring manager) list their objections.
+- An ATS formatting check.
+- Templates for the main CV, an achievements bank and one folder per application.
+- Seven short guides and one fictional worked example.
+- The skills use only the experience and numbers you provide.
 
 ## How it works
 

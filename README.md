@@ -1,6 +1,6 @@
 # cv-tailor
 
-Build one strong main CV, tailor it to each posting and keep every version.
+Build one strong main CV, tailor it to each posting and keep every version. The skills work best adapted to you: [Make it yours](#make-it-yours) has a prompt for your AI.
 
 <details>
 <summary><b>Why I built it:</b> I sent over 100 CVs and got back barely a handful of replies, so I rebuilt my CV for the software that screens it.</summary>
@@ -79,6 +79,14 @@ The `-n` flag keeps any skill you already have with the same name. The last two 
 The ready zips are on the site: https://danielercohen.github.io/ai-pm/toolkit/cv-tailor.html. To build them yourself, run `bash tools/build-skill-zips.sh` in the [ai-pm](https://github.com/DanielErCohen/ai-pm) repo. A plain `zip` of a skill folder does not work, because the Claude app rejects some frontmatter keys, and `cv-review` and `cv-tailor` need `ats-checks.md` added. The script handles both.
 
 **Any chat, no install.** Open a skill's `SKILL.md`, paste everything below the `---` header into a chat as your first message, then attach or paste your material. The guides in `guides/` show the exact messages.
+
+## Make it yours
+
+A tool works best when it fits how you work. After you set one up, paste this into your AI to adapt it to your role, your tone and your tools:
+
+```text
+I set up the cv-tailor skills from this repo. Read them, then ask me three questions about my role, my tone and the tools I use. Wait for my answers, then adapt them to fit me and tell me what you changed and why. Keep the rules that stop them from inventing experience or numbers.
+```
 
 ## Versions
 

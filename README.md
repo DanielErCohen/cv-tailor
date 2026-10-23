@@ -92,6 +92,10 @@ I set up the cv-tailor skills from this repo. Read them, then ask me three quest
 
 Your main CV changes slowly. Each application gets its own folder with a tailored CV that points at the job description it answers. Git records every change, so you can see what you sent to whom and go back to any earlier version. Guide 05 explains it in plain language.
 
+## Create a CV artifact
+
+Read [ARTIFACTS.md](ARTIFACTS.md) for the template and example paths, adaptation rules and preview, download and copy pattern. Build real applications from your confirmed main CV in a private working copy. Public previews and starter packs use synthetic examples only; review the CV and `changes.md` before sending.
+
 ## Privacy
 
 A CV holds your name, contact details, employers and history. Keep it in a private place.

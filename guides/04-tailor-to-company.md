@@ -25,7 +25,7 @@ Two postings with similar titles can want different things. Fifteen minutes of r
 
 ## What research must never do
 
-Research shapes emphasis and tone. It does not give you permission to claim skills the company wants. If you do not admire something, do not say you do.
+Research shapes emphasis and tone. Claim only skills you have. Praise only what you admire.
 
 ## Good first lines for a cover note
 

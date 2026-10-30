@@ -1,6 +1,6 @@
 # Worked example
 
-Everything here is fictional: the person, the employers and the numbers are invented. It shows the flow in `marlow-quinnet/`:
+Everything here is made-up: the person, the employers and the numbers are invented. It shows the flow in `marlow-quinnet/`:
 
 1. `main-cv.md`: the main CV of an invented customer success manager.
 2. `job-description.md` and `company-notes.md`: an invented posting at an invented company.

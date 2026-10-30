@@ -1,6 +1,6 @@
 # 03 Tailor to a role
 
-Tailoring means choosing which true things to show first and using the employer's words for work you really did. It does not mean adding things.
+Tailoring means choosing which true things to show first and using the employer's words for work you really did.
 
 ## Steps
 

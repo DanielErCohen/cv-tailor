@@ -29,7 +29,7 @@ Six Claude skills that take you from one main CV to a tailored CV per role.
 - A "read it as them" step: simulated readers (a recruiter screen, HR, the interviewing PMs, the hiring manager) list their objections.
 - An ATS formatting check.
 - Templates for the main CV, an achievements bank and one folder per application.
-- Seven short guides and one fictional worked example.
+- Seven short guides and one made-up worked example.
 - The skills use only the experience and numbers you provide.
 
 ## How it works
@@ -48,7 +48,7 @@ my-cv/main-cv.md              the single source of truth, improved once
 5. Write a short cover note (`cover-note`) and log the application (`application-tracker`).
 6. Commit after each step. Tag the version you actually sent.
 
-Every tailored CV comes with `changes.md`, which lists what changed against the main CV and why, plus the simulated readers' objections. You read it before you send anything. The readers are a simulation: they show where a CV is likely to lose someone and cannot predict a hiring decision. The skills instruct Claude to use only experience and numbers you supplied. Check every claim before sending a CV.
+The readers are a simulation: they show where a CV is likely to lose someone and cannot predict a hiring decision. The skills instruct Claude to use only experience and numbers you supplied. Check every claim before sending a CV.
 
 ## Quick start (15 minutes)
 
@@ -103,7 +103,7 @@ A CV holds your name, contact details, employers and history. Keep it in a priva
 - Use a local folder or a private copy for your CV. On GitHub, click "Use this template" and choose Private. GitHub does not allow private forks of public repositories, and a fork of this one would stay public.
 - The `.gitignore` here ignores nothing personal by default, so your files are versioned. It includes a commented option to keep `my-cv/` and `applications/` untracked instead.
 - When you paste a CV into a chat, it goes to the provider you chose. Read their data settings first, and remove details you do not want shared, such as your home address.
-- `examples/` is fictional. Delete it from your copy if you like.
+- `examples/` is made-up. Delete it from your copy if you like.
 
 ## Guides
 
@@ -125,7 +125,7 @@ A CV holds your name, contact details, employers and history. Keep it in a priva
 | `my-cv/` | Your main CV and achievements bank |
 | `applications/` | One folder per application, copied from `_template/` |
 | `guides/` | The workflow in plain language |
-| `examples/` | A fictional worked example |
+| `examples/` | A made-up worked example |
 
 ## License
 

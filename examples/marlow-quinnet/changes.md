@@ -1,6 +1,6 @@
 # Changes: Northgate Analytics, Customer Success Manager, Mid-Market
 
-*Fictional example: Marlow Quinnet, the employers and every number here are invented.*
+*Made-up example: Marlow Quinnet, the employers and every number here are invented.*
 
 ## Angle
 
@@ -29,7 +29,7 @@ Lead with onboarding design and retention, since the posting wants a repeatable 
 
 ## Read as the recipients
 
-*Fictional example: the reviewers are simulated, the objections are invented for this example, and Marlow Quinnet does not exist. A real panel is a simulation too, so check any fact a reviewer states.*
+*Made-up example: the reviewers are simulated, the objections are invented for this example, and Marlow Quinnet does not exist. A real panel is a simulation too, so check any fact a reviewer states.*
 
 | Role | Stopped reading at | Top objections | Changed or left out, and why |
 |---|---|---|---|

@@ -13,7 +13,7 @@ The main CV is the one document you improve carefully, once. Every tailored vers
 2. Start the interview. In Claude Code, with the repo open, say:
    > Use cv-intake to build my main CV. My old CV is attached.
 
-   In Claude Desktop or web, upload the `cv-intake` skill (README, "Install") and send the same message with your files attached. With no install, paste the body of `skills/cv-intake/SKILL.md` first.
+   In the Claude app, upload the `cv-intake` skill (README, "Install") and send the same message with your files attached. With no install, paste the body of `skills/cv-intake/SKILL.md` first.
 3. Answer the questions for each role, newest first. Claude asks what you owned and what changed. Give numbers with units and periods: "from 14 to 9 minutes", "about 40 customers a week", "over 6 months".
 4. If you do not know a number, say so. Claude will ask for an estimate or leave a placeholder like `[N]`. It will not invent one.
 5. Read the result line by line and ask yourself: can I explain this in an interview? Change or delete anything you cannot.

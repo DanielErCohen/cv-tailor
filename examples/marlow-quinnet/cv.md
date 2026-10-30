@@ -4,7 +4,7 @@ Based on main CV version: main-cv.md as of 2026-03-02
 
 # Marlow Quinnet
 
-*Fictional example: Marlow Quinnet, the employers and every number here are invented.*
+*Made-up example: Marlow Quinnet, the employers and every number here are invented.*
 
 Leeds, United Kingdom | marlow.quinnet@example.com | +44 0000 000000 | linkedin.com/in/example-marlow-quinnet
 

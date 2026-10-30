@@ -12,7 +12,7 @@ This repo takes a job seeker from an old CV to tailored applications, with versi
 | `applications/YYYY-MM-DD-company-role/` | One folder per application, named with the date started. |
 | `skills/` | The six skills. Read the matching `SKILL.md` before doing a step. |
 | `guides/` | Plain-language walkthroughs for the user. |
-| `examples/` | Fictional worked example. Use it as a format reference only. |
+| `examples/` | Made-up worked example. Use it as a format reference only. |
 
 ## Workflow order
 

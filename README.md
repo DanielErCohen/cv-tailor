@@ -94,7 +94,7 @@ Your main CV changes slowly. Each application gets its own folder with a tailore
 
 ## Create a CV artifact
 
-Read [ARTIFACTS.md](ARTIFACTS.md) for the template and example paths, adaptation rules and preview, download and copy pattern. Build real applications from your confirmed main CV in a private working copy. Public previews and starter packs use synthetic examples only; review the CV and `changes.md` before sending.
+Read [ARTIFACTS.md](ARTIFACTS.md) for the template and example paths, adaptation rules and preview, download and copy pattern. Build real applications from your confirmed main CV in a private working copy. Public previews and starter packs use made-up examples only; review the CV and `changes.md` before sending.
 
 ## Privacy
 

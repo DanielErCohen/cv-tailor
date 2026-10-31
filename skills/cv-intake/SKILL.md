@@ -14,7 +14,7 @@ Build the user's main CV. It is the base for every tailored version, so quality 
 
 ## Steps
 
-1. **Read what exists.** Summarize in three lines: roles, years covered, how many bullets carry a number. Say what is already strong first.
+1. **Check the folder, then read what exists.** Before the first write, run `gh repo view --json isPrivate -q .isPrivate` in the open folder. If it prints `false`, stop and tell the user the folder is inside a public repo, so a CV must not be written there. If the folder is not a git repo, or `gh` is missing or not signed in, say so and ask the user to confirm the folder is private. In a chat with no files, skip this check. Then summarize in three lines: roles, years covered, how many bullets carry a number. Say what is already strong first.
 2. **Ask about the target.** One question: what kind of role do you want next, and at what level? The main CV stays general, but this sets which strengths to surface.
 3. **Interview, one role at a time, newest first.** For each role ask:
    - What did you own, and for whom (team size, customers, budget, scope)?

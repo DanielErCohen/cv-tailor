@@ -1,6 +1,6 @@
 # Marlow Quinnet
 
-*Made-up example: Marlow Quinnet, the employers and every number here are invented.*
+*Made-up example: Marlow Quinnet, the employers and every number here are made up.*
 
 Leeds, United Kingdom | marlow.quinnet@example.com | +44 0000 000000 | linkedin.com/in/example-marlow-quinnet
 

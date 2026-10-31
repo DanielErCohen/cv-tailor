@@ -1,6 +1,6 @@
 # Company notes: Northgate Analytics
 
-(Invented company. Sources are placeholders for the example.)
+(Made-up company. Sources are placeholders for the example.)
 
 ## What they sell and to whom
 
@@ -42,4 +42,4 @@ Says it works "data first, written first". Verified: careers page.
 
 ## Sources
 
-- Company website, about and careers pages, checked 2026-03-02 (invented)
+- Company website, about and careers pages, checked 2026-03-02 (made up)

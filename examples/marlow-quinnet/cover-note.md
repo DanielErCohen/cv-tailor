@@ -1,6 +1,6 @@
 # Cover note: Northgate Analytics, Customer Success Manager, Mid-Market
 
-*Made-up example: Marlow Quinnet, the employers and every number here are invented.*
+*Made-up example: Marlow Quinnet, the employers and every number here are made up.*
 
 I am applying for the Mid-Market Customer Success Manager role. Your forecasting module launch and the plan to build a repeatable onboarding program match the work I do at Fernhill Software.
 

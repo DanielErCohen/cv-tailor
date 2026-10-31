@@ -14,7 +14,7 @@ Build the user's main CV. It is the base for every tailored version, so quality 
 
 ## Steps
 
-1. **Read what exists.** Summarise in three lines: roles, years covered, how many bullets carry a number. Say what is already strong first.
+1. **Read what exists.** Summarize in three lines: roles, years covered, how many bullets carry a number. Say what is already strong first.
 2. **Ask about the target.** One question: what kind of role do you want next, and at what level? The main CV stays general, but this sets which strengths to surface.
 3. **Interview, one role at a time, newest first.** For each role ask:
    - What did you own, and for whom (team size, customers, budget, scope)?

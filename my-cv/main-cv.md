@@ -55,7 +55,7 @@ Raw outcomes that did not fit here belong in achievements-bank.md.
 ### [Degree], [Institution]
 [Year] - [Year]
 
-<!-- Exact degree name, institution and dates. Add honours or relevant thesis only if useful. -->
+<!-- Exact degree name, institution and dates. Add honors or relevant thesis only if useful. -->
 
 ## Certifications and training (optional)
 

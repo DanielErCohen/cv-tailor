@@ -17,7 +17,7 @@ Reporting and forecasting software for mid-size retailers. Verified: company web
 
 ## What this role is for
 
-The company is moving from founder-led onboarding to a repeatable programme. The role exists to own that programme as the team scales. Unverified: inferred from the posting's last duty line.
+The company is moving from founder-led onboarding to a repeatable program. The role exists to own that program as the team scales. Unverified: inferred from the posting's last duty line.
 
 ## Values and ways of working
 
@@ -32,7 +32,7 @@ Says it works "data first, written first". Verified: careers page.
 
 ## Use in cover note
 
-- Open on the forecasting module launch and the onboarding programme.
+- Open on the forecasting module launch and the onboarding program.
 - Mention the written playbook as evidence for "written first".
 
 ## Questions for the interview

@@ -24,7 +24,7 @@ Nobody outside each vendor knows exactly how every system ranks, so treat these 
 - [ ] Keywords from the posting appear where your real work supports them, with the posting's spelling and acronyms. If the posting says "search engine optimization (SEO)", include both forms once.
 - [ ] Skills use the standard spelling, such as "JavaScript" in full.
 - [ ] Numbers carry units and periods.
-- [ ] No keyword stuffing, no hidden white text. Systems and recruiters both penalise it.
+- [ ] No keyword stuffing, no hidden white text. Systems and recruiters both penalize it.
 - [ ] Job titles are real. If your internal title was unusual, you may add the common equivalent in brackets, such as "Growth Wizard (Marketing Manager)", only if it describes the same job.
 
 ## File checks

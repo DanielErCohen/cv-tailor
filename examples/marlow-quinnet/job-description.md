@@ -15,7 +15,7 @@ You will:
 - Run quarterly business reviews with customer finance and operations leaders.
 - Spot churn risk early using product usage data and act on it.
 - Work with product and sales to bring customer needs into the roadmap.
-- Help us build a repeatable onboarding programme as we scale.
+- Help us build a repeatable onboarding program as we scale.
 
 You have:
 - 4 or more years in customer success or account management for B2B software.

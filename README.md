@@ -8,7 +8,7 @@ Build one strong main CV, tailor it to each posting and keep every version. The 
 - After the change, about 1 in 5 got a reply.
 - The structure of my CV was hard for that software to read.
 - It used my wording where each posting had its own. One version went to every role.
-- In Harvard Business School's Hidden Workers survey (2021) of employers in the US, UK and Germany, about 6 in 10 used recruitment software. More than 9 in 10 of those let it make the first cut of applicants.
+- In Harvard Business School's [Hidden Workers survey](https://www.hbs.edu/ris/Publication%20Files/hiddenworkers09032021_Fuller_white_paper_33a2047f-41dd-47b1-9a8d-bd08cf3bfa94.pdf) (2021) of employers in the US, UK and Germany, 63% used recruitment software. More than 9 in 10 of those used it to filter or rank applicants first.
 - I first built this as an app, LandMyCV, to help myself and others find a relevant job. In Apr '26 I paused the app and kept its steps here as plain files that Claude follows.
 
 </details>

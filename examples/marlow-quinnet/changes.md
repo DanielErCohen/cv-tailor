@@ -4,14 +4,14 @@
 
 ## Angle
 
-Lead with onboarding design and retention, since the posting wants a repeatable onboarding programme and a retention record. Use the posting's phrase "time to value" for work already done.
+Lead with onboarding design and retention, since the posting wants a repeatable onboarding program and a retention record. Use the posting's phrase "time to value" for work already done.
 
 ## Changes
 
 | Section | Before (main CV) | After (this CV) | Why |
 |---|---|---|---|
-| Summary | "...in B2B software and logistics tech. ...Known for onboarding programmes that cut time to first value." | "...in B2B software, focused on onboarding and retention for mid-market accounts. ...cut average time to first value from 41 to 23 days." | Matches the posting's focus. The 41 to 23 figure comes from the Fernhill bullet. |
-| Fernhill bullet 2 | "Redesigned onboarding for new accounts, cutting average time to first scheduled route from 41 to 23 days across 35 accounts." | "...a repeatable programme that cut average time to first scheduled route (time to value) from 41 to 23 days..." | Posting wording: "repeatable onboarding" and "time to value". Same work, same numbers. |
+| Summary | "...in B2B software and logistics tech. ...Known for onboarding programs that cut time to first value." | "...in B2B software, focused on onboarding and retention for mid-market accounts. ...cut average time to first value from 41 to 23 days." | Matches the posting's focus. The 41 to 23 figure comes from the Fernhill bullet. |
+| Fernhill bullet 2 | "Redesigned onboarding for new accounts, cutting average time to first scheduled route from 41 to 23 days across 35 accounts." | "...a repeatable program that cut average time to first scheduled route (time to value) from 41 to 23 days..." | Posting wording: "repeatable onboarding" and "time to value". Same work, same numbers. |
 | Fernhill bullet order | Migration bullet third, product feedback fifth | Product feedback third, migration last | The posting asks for bringing customer needs to the roadmap. The migration is less relevant. |
 | Brightwell bullet order | Gross retention of 92% first | Saved 6 of 8 at-risk accounts first | The posting asks to spot churn risk early. |
 | Brightwell newsletter bullet | Present | Removed | Not relevant to the posting. Length stays within 10% of the main CV. |

@@ -6,7 +6,7 @@ Leeds, United Kingdom | marlow.quinnet@example.com | +44 0000 000000 | linkedin.
 
 ## Summary
 
-Customer Success Manager with 7 years in B2B software and logistics tech. Grew net revenue retention on a 60-account book from 94% to 108% in 18 months. Known for onboarding programmes that cut time to first value.
+Customer Success Manager with 7 years in B2B software and logistics tech. Grew net revenue retention on a 60-account book from 94% to 108% in 18 months. Known for onboarding programs that cut time to first value.
 
 ## Experience
 
@@ -35,7 +35,7 @@ Brightwell is a freight-tracking platform. I managed 45 small and mid-size accou
 Aug 2017 - May 2019
 
 - Resolved 40 to 60 support tickets a day with a 96% satisfaction score.
-- Wrote 25 help-centre articles that handled about 15% of incoming questions without a ticket.
+- Wrote 25 help-center articles that handled about 15% of incoming questions without a ticket.
 
 ## Skills
 

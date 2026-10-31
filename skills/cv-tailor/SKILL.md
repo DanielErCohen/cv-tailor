@@ -15,7 +15,7 @@ Create a version of the main CV for one application. The main CV stays untouched
 
 ## Steps
 
-1. **Analyse the job description.** List: must-have requirements, nice-to-haves, exact keywords and phrases, seniority signals, and what the first six months of the job look like.
+1. **Analyze the job description.** List: must-have requirements, nice-to-haves, exact keywords and phrases, seniority signals, and what the first six months of the job look like.
 2. **Map evidence.** For each must-have, find the line in the main CV or the achievements bank that supports it. Mark each as strong, partial or no evidence.
 3. **Name domain gaps.** A requirement with no evidence is a gap. Do not add it to the CV. List it in `changes.md`.
 4. **Ask before writing** if a partial match could become a strong one with a fact only the user has, such as a number or team size. Ask at most five questions, then continue.

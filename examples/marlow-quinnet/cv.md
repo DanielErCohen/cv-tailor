@@ -20,7 +20,7 @@ Mar 2022 - Present
 Fernhill sells scheduling software to mid-size logistics firms. I manage 60 accounts worth GBP 3.1M in annual recurring revenue.
 
 - Raised net revenue retention on my book from 94% to 108% in 18 months by adding quarterly business reviews and a usage-based risk list.
-- Redesigned onboarding for new accounts, a repeatable programme that cut average time to first scheduled route (time to value) from 41 to 23 days across 35 accounts.
+- Redesigned onboarding for new accounts, a repeatable program that cut average time to first scheduled route (time to value) from 41 to 23 days across 35 accounts.
 - Presented customer feedback to product every month, which led to 3 roadmap changes, including bulk route import.
 - Trained 4 new customer success managers and wrote the escalation playbook the team still uses.
 - Led a migration of 12 customers off a retired product, with 11 of 12 staying on the new plan.
@@ -38,7 +38,7 @@ Brightwell is a freight-tracking platform. I managed 45 small and mid-size accou
 Aug 2017 - May 2019
 
 - Resolved 40 to 60 support tickets a day with a 96% satisfaction score.
-- Wrote 25 help-centre articles that handled about 15% of incoming questions without a ticket.
+- Wrote 25 help-center articles that handled about 15% of incoming questions without a ticket.
 
 ## Skills
 
